@@ -5,4 +5,3 @@ commit test
 789.
 New line
 new branch line
-new line for gui
